@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Lib/selenium-server-standalone-3.10.0.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-ooxml-3.5-beta5.jar"/>
+	<classpathentry kind="lib" path="Lib/common-lang3.jar"/>
+	<classpathentry kind="lib" path="Lib/poi-3.11.jar"/>
+	<classpathentry kind="lib" path="Lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="Lib/log4j-1.2.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
